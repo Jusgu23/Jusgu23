@@ -1,6 +1,6 @@
-# Hi, I'm Julieth Cardenas, Welcome to my GitHub Profile</h1>  
+# Hi, I'm Julieth Cardenas, Welcome to my GitHub Profile
 
-## Perfil profesional
+## Professional profile
 Systems Engineer with experience in software development, networking, and infrastructure for ERP systems.
 
 Specialized in creating scalable applications, optimizing processes, monitoring applications, analyzing connectivity incidents, and improving user experience.
